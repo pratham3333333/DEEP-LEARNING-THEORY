@@ -1,5 +1,3 @@
-Here are **Unit 1 — Elaborative Theory Answers (6 Marks Each)** 📘✍️
-Written in **GitHub README format** so you can directly paste.
 
 ---
 
